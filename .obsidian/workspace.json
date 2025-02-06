@@ -4,21 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "6baf1756b58fbde2",
+        "id": "c8185c5746715cbe",
         "type": "tabs",
         "children": [
           {
-            "id": "e9fb82c25fe12449",
+            "id": "5cb56b06b3521db9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "2025-02-06.md",
-                "mode": "source",
-                "source": false
+                "file": "Challenges.canvas",
+                "viewState": {
+                  "x": -260,
+                  "y": -180,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "2025-02-06"
+              "icon": "lucide-layout-dashboard",
+              "title": "Challenges"
             }
           }
         ]
@@ -165,8 +168,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e9fb82c25fe12449",
+  "active": "5cb56b06b3521db9",
   "lastOpenFiles": [
-    "2025-02-06.md"
+    "Screenshot 2025-02-06 at 15.50.35.png",
+    "2025-02-06.md",
+    "Challenges.canvas"
   ]
 }
