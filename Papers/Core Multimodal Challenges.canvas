@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"3191bb7b469cd061","type":"text","text":"Core Challenges\nFusion, Fission, Coordination","x":-740,"y":-420,"width":280,"height":140,"color":"2"},
+		{"id":"b405b79e1ea1381a","type":"file","file":"Screenshot 2025-02-06 at 15.50.35.png","x":-340,"y":-506,"width":613,"height":346},
+		{"id":"b895e5ef68143cc8","type":"text","text":"","x":-740,"y":-160,"width":280,"height":140}
+	],
+	"edges":[]
+}

@@ -4,56 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "c8185c5746715cbe",
+        "id": "bf3cec75f42857cf",
         "type": "tabs",
         "children": [
           {
-            "id": "5cb56b06b3521db9",
+            "id": "deeda4f5fc800666",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "3d41e79a8cb4805d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-02-06.md",
+                "file": "cloud issues/09.02.2025 Cloud Costs 1- Meeting between Shahzad and Ahmed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-02-06"
-            }
-          },
-          {
-            "id": "7bd6f5ca0944b5d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2025-02-06.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2025-02-06"
-            }
-          },
-          {
-            "id": "27aef6823baa8fe5",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Core Multimodal Challenges.canvas",
-                "viewState": {
-                  "x": -233.5,
-                  "y": -263,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Core Multimodal Challenges"
+              "title": "09.02.2025 Cloud Costs 1- Meeting between Shahzad and Ahmed"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -73,7 +52,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -110,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 311.5
   },
   "right": {
     "id": "5201a6a1c30dbf19",
@@ -126,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cloud issues/09.02.2025 Cloud Costs 1- Meeting between Shahzad and Ahmed.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 09.02.2025 Cloud Costs 1- Meeting between Shahzad and Ahmed"
             }
           },
           {
@@ -184,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,14 +176,31 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "27aef6823baa8fe5",
+  "active": "3d41e79a8cb4805d",
   "lastOpenFiles": [
-    "2025-02-07.md",
     "2025-02-06.md",
+    "2025-02-07.md",
+    "cloud issues/09.02.2025 Cloud Costs 1- Meeting between Shahzad and Ahmed.md",
+    "cloud issues",
+    "Untitled.canvas",
+    "Papers/Flow Matching Guide 2.pdf",
+    "Papers/Flow Matching Guide 1.pdf",
+    "Papers/Flow Matching Guide.pdf",
+    "Papers/Core Multimodal Challenges.canvas",
+    "Papers/Clap.pdf",
+    "Multimodal Models/Survey.pdf",
+    "Multimodal Models/Video LLama3.pdf",
+    "Multimodal Models/Show, Attend and Tell- Neural Image Caption Generation with Visual Attention.pdf",
+    "Multimodal Models/Representation Learning- A Review and New Perspectives.pdf",
+    "Multimodal Models/Pramanick_Multimodal_Learning_Using_Optimal_Transport_for_Sarcasm_and_Humor_Detection_WACV_2022_paper.pdf",
+    "Multimodal Models/notes.md",
+    "Administrative/Noctal DB Access.md",
+    "Administrative/Github Recovery Codes.md",
+    "Research/Resources.md",
+    "Research/Datasets.md",
+    "Research/Interesting Papers.md",
+    "Papers/Notes.md",
     "README.md",
-    "Noctal DB Access.md",
-    "Github Recovery Codes.md",
-    "Screenshot 2025-02-06 at 15.50.35.png",
-    "Core Multimodal Challenges.canvas"
+    "Screenshot 2025-02-06 at 15.50.35.png"
   ]
 }
